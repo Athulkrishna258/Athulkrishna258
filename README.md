@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Athulkrishna258
 - 👀 I’m interested in new technology and new developments in tech fields
 - 🌱 I’m currently learning python and machine learning 
-- 💞️ I’m looking to collaborate on google microsoft
-- 📫 How to reach me through tje google search
+- 💞️ I’m looking to collaborate on google and microsoft
+- 📫 How to reach me through the google search
 - 😄 Pronouns: athul
 - ⚡ Fun fact: I am really fun than you
 
